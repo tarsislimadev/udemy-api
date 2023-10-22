@@ -2,6 +2,10 @@
 
 To get data from Udemy Affiliate API Documentation (v2.0).
 
-## License
+## how to install
+
+## how to use
+
+## license
 
 [MIT](./LICENSE)
