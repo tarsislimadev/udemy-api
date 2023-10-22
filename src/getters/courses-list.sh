@@ -2,7 +2,7 @@
 
 ## inputs
 
-path=""
+path="courses"
 
 . datetime.sh
 

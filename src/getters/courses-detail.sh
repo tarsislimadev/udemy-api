@@ -2,7 +2,9 @@
 
 ## inputs
 
-path=""
+pk="${1}"
+
+path="courses/${pk}"
 
 . datetime.sh
 

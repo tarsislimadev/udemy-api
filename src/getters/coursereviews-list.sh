@@ -2,7 +2,9 @@
 
 ## inputs
 
-path=""
+course_id="${1}"
+
+path="courses/${course_id}/reviews"
 
 . datetime.sh
 
